@@ -1,4 +1,4 @@
-# Git-merged
+# Git-merge
 
 Git est merge est une commande qui permet de fusionner deux branches d'un projet GIT. Cette fusion peut être simple ou compliquée.
 
